@@ -15,7 +15,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Mapped the Normalized tables as a Physical Data Model
 
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (See screenshot)
-! [screenshot1] (Midterm Task 1/images/Before.PNG)
+! [screenshot1] (images/Before.PNG)
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
 
