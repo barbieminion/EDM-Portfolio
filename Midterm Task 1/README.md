@@ -30,6 +30,6 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/images/Data%20Model.png)
 
 ## Here are the Completed Files
-[Cleaned Data](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/Cleaned%20Data%20Dana%20Mae%20Carbonel.xlsx)
-[Normalized File](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/Cleaned%20Data%20Dana%20Mae%20Carbonel.xlsx)
+[Cleaned Data](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/Cleaned%20Data%20Dana%20Mae%20Carbonel.xlsx)/
+[Normalized File](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/Cleaned%20Data%20Dana%20Mae%20Carbonel.xlsx)/
 [Finished File](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/Cleaned%20Data%20Dana%20Mae%20Carbonel.xlsx)
