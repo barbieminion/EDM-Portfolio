@@ -18,5 +18,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/images/Before.jpg)
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (See screenshot)
+![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/images/After.png)
 
 ## Here's the Physical Data Model
+![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/images/Data%20Model.png)
