@@ -10,5 +10,5 @@ Currently studying Bachelor of Science in Information System at City College of 
 - Primary: St. Paul School
 
 ## My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL] (Midterm Task 1/Cleaned Data Dana Mae Carbonel.xlsx)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%201/Cleaned%20Data%20Dana%20Mae%20Carbonel.xlsx)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY]
