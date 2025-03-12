@@ -32,4 +32,4 @@ For this task we are given an UnclenedDSJObs csv taken from a Job Posting site a
 ![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%202/images/Sal%20by%20State%20ref.png)
 
 ## Here is the Completed File
-[Finished Data Transformation](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%202/Finished%20Data%20Transformation%20-%20Dana%20Mae%20Carbonel.xlsx)
+[Finished Data Transformation](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Task%202/Finished%20Data%20-%20Dana%20Mae%20Carbonel.xlsx)
