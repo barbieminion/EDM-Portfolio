@@ -59,7 +59,8 @@
 - Hidden the connected cell from text Box by making it white
 - Created design for search bar
 
-Output:
+# Output:
+
 ![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Lab%20Task3/images/Dashboard%20Image.png)
 ![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Lab%20Task3/images/Dashboard%20with%20Map%20and%20Search%20Bar.png)
 ![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Lab%20Task3/images/Pivot%20Tables%20connected%20to%20Dashboard.png)
