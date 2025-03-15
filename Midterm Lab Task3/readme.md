@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/22fe1b1b-4f2d-4fa0-a622-b830ef27432b)# Creating Pivot Tables and Charts
+# Creating Pivot Tables and Charts
 
 # Process
 
