@@ -60,3 +60,9 @@
 - Created design for search bar
 
 Output:
+![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Lab%20Task3/images/Dashboard%20Image.png)
+![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Lab%20Task3/images/Dashboard%20with%20Map%20and%20Search%20Bar.png)
+![screenshot](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Lab%20Task3/images/Pivot%20Tables%20connected%20to%20Dashboard.png)
+
+# Here is the Finished Dashboard File
+[Dashboard by Dana Mae Carbonel](https://github.com/barbieminion/EDM-Portfolio/blob/main/Midterm%20Lab%20Task3/Finished%20Dashboard%20-%20Dana%20Mae%20Carbonel.xlsm)
