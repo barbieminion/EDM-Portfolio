@@ -16,3 +16,4 @@ Currently studying Bachelor of Science in Information System at City College of 
 - Finals Lab Task 1: [MySQL Basics Multi Level Company](https://github.com/barbieminion/EDM-Portfolio/tree/main/Finals%20Task%201#readme) 
 - Finals Lab Task 2: [Transform ER into Relational Tables](https://github.com/barbieminion/EDM-Portfolio/blob/main/Finals%20Task%202/readme.md)
 - Finals Lab Task 3: [Table Manipulation](https://github.com/barbieminion/EDM-Portfolio/blob/main/Finals%20Task%203/readme.md)
+- Finals Lab Task 3-1: [Using MYSQL Clause](https://github.com/barbieminion/EDM-Portfolio/blob/main/Finals%20Task%203-1/readme.md)
